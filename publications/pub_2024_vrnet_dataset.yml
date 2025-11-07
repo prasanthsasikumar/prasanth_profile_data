@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: pub_2024_vrnet_dataset
+title: "VR.net: A Real-world Dataset for Virtual Reality Motion Sickness Research"
+venue: ""
+type: "article"
+date: "2024-03-01"
+authors:
+  - "Sasikumar, Prasanth"
+doi: ""
+url: "https://www.researchgate.net/publication/378712596_VRnet_A_Real-world_Dataset_for_Virtual_Reality_Motion_Sickness_Research"
+citations_count: 0
+awards: []
+highlights:
+  - "Introduces a large, real-world dataset to advance VR motion sickness research."
+evidence_refs: []

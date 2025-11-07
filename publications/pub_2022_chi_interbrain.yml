@@ -1,0 +1,22 @@
+schema_version: "0.1.0"
+id: pub_2022_chi_interbrain
+title: "Inter-brain Synchrony and Eye Gaze Direction During Collaboration in VR"
+venue: "CHI EA '22: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+type: "conference"
+date: "2022-04-28"
+authors:
+  - "Gumilar, Ihshan"
+  - "Barde, Amit"
+  - "Sasikumar, Prasanth"
+  - "Billinghurst, Mark"
+  - "Hayati, Ashkan F."
+  - "Lee, Gun"
+doi: "10.1145/3491101.3519746"
+url: "https://dl.acm.org/doi/10.1145/3491101.3519746"
+citations_count: 12
+citations_source: "ACM Digital Library"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Examined inter-brain synchrony and gaze dynamics in collaborative VR tasks."
+evidence_refs: []

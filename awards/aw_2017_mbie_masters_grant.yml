@@ -1,0 +1,10 @@
+schema_version: "0.1.0"
+id: aw_2017_mbie_masters_grant
+name: "MBIE Masters Tuition Grant"
+awarding_body: "Ministry of Business, Innovation and Employment (New Zealand)"
+level: "national"
+date: "2017-01-01"
+selectivity: "competitive"
+criteria: "Tuition support for postgraduate study based on merit and research alignment."
+link: ""
+evidence_refs: []

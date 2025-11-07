@@ -1,0 +1,16 @@
+# Template for a publication item
+schema_version: "0.1.0"
+id: pub_xxxx
+title: "<Title>"
+venue: "<Journal/Conference/Medium>"
+type: "journal|conference|preprint|article|blog"
+date: "YYYY-MM-DD"
+authors:
+  - "<Last, First>"
+doi: "<DOI or null>"
+url: "<URL>"
+citations_count: <number>
+awards: []
+highlights:
+  - "<Short highlight>"
+evidence_refs: []

@@ -1,0 +1,16 @@
+schema_version: "0.1.0"
+id: tl_2023_nus_research_fellow
+org: "National University of Singapore"
+title: "Research Fellow"
+start_date: "2023-04-01"
+end_date: null
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Lead research on adaptive VR/AR using physiological and behavioral sensing."
+  - "Co-created large-scale VR motion sickness dataset with industry partners."
+  - "Published at IEEE VR, CHI; developed AR accessibility prototypes."
+achievements: []

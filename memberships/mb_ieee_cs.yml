@@ -1,0 +1,12 @@
+schema_version: "0.1.0"
+id: mb_ieee_cs
+org: "IEEE Computer Society"
+type: "membership"
+role: "Member"
+level: "professional association"
+start_date: null
+end_date: null
+selectivity: "standard membership"
+criteria: "Professional membership; not selective. Senior Member grade is selective."
+link: "https://www.computer.org/"
+evidence_refs: []

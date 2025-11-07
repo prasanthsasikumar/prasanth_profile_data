@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1.0",
+  "generated_at": "2025-11-07T00:00:00Z",
+  "categories": {
+    "identity": ["identity.yml"],
+    "timeline": [
+      "timeline/tl_2023_nus_research_fellow.yml",
+      "timeline/tl_2021_massey_ra.yml",
+      "timeline/tl_2020_uoa_ra.yml",
+      "timeline/tl_2018_jix_xr_developer.yml",
+      "timeline/tl_2014_ibs_full_stack.yml",
+      "timeline/tl_2022_uoa_gta.yml",
+      "timeline/tl_2021_school_design_ta.yml",
+      "timeline/tl_2019_uoa_phd.yml",
+      "timeline/tl_2017_uc_masters.yml",
+      "timeline/tl_2010_kerala_bachelors.yml"
+    ],
+    "awards": [
+      "awards/aw_2017_mbie_masters_grant.yml",
+      "awards/aw_2019_tec_phd_grant.yml",
+      "awards/aw_2019_myob_runnerup.yml",
+      "awards/aw_2023_meta_hackathon_invite.yml",
+      "awards/aw_2024_meta_hackathon_invite.yml"
+    ],
+    "publications": [
+      "publications/pub_2019_ismar_remotefusion.yml",
+      "publications/pub_2020_chi_gaze_hand.yml",
+      "publications/pub_2020_jmui_av_cues.yml",
+      "publications/pub_2020_sigasia_neuraldrum.yml",
+      "publications/pub_2021_chi_xrtb.yml",
+      "publications/pub_2021_frontiers_volumetric_playback.yml",
+      "publications/pub_2022_chi_interbrain.yml",
+      "publications/pub_2023_sigasia_sensoryscape.yml",
+      "publications/pub_2024_ieeevr_physio_cues.yml",
+      "publications/pub_2024_vrnet_dataset.yml",
+      "publications/pub_2024_chi_seear.yml",
+      "publications/pub_2024_chi_floatation.yml",
+      "publications/pub_2024_emnlp_emoknow.yml",
+      "publications/pub_2024_motion_as_emotion.yml"
+    ],
+    "claims": ["claims/eb1a_criteria.yml"],
+    "narratives": ["narratives/bio_short.md"],
+    "memberships": [
+      "memberships/mb_ieee_cs.yml"
+    ]
+  }
+}

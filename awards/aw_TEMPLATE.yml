@@ -1,0 +1,11 @@
+# Template for an award/recognition item
+schema_version: "0.1.0"
+id: aw_xxxx
+name: "<Award Name>"
+awarding_body: "<Organization>"
+level: "international|national|field|company"
+date: "YYYY-MM-DD"
+selectivity: "<e.g., 2% acceptance>"
+criteria: "<selection criteria summary>"
+link: "<URL>"
+evidence_refs: []

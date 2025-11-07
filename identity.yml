@@ -1,0 +1,65 @@
+schema_version: "0.1.0"
+id: prasanth_identity
+full_name: "Prasanth Sasikumar"
+preferred_name: "Prasanth"
+headline: "XR & Wearable AI Researcher | Multimodal Sensing, Remote Collaboration, Cognitive State Modeling"
+summary_short: |
+  Research Fellow at the National University of Singapore focused on multimodal sensing and XR. Work spans
+  physiological computing (EEG/ECG/GSR/HRV), eye-gaze and hand-gesture interfaces, and adaptive VR/AR systems
+  for remote collaboration and training. Published at CHI, IEEE VR, ISMAR, SIGGRAPH Asia, and leading journals;
+  co-created a large-scale VR motion sickness dataset with industry partners.
+locations:
+  - city: "Singapore"
+    country: "Singapore"
+  - city: "Auckland"
+    country: "New Zealand"
+contact:
+  email: "prasanth@ahlab.org"
+  website: "https://prasanthsasikumar.com"
+  phone: "+65-80630061"
+websites:
+  linkedin: "https://www.linkedin.com/in/prasanth-sasikumar/"
+  google_scholar: "https://scholar.google.com/citations?user=85RKyZMAAAAJ&hl=en&oi=ao"
+  github: "https://github.com/prasanthsasikumar"
+  orcid: "https://orcid.org/0000-0002-5844-9164"
+  researchgate: "https://www.researchgate.net/profile/Prasanth-Sasikumar"
+identifiers:
+  orcid: "0000-0002-5844-9164"
+  scholar_id: "85RKyZMAAAAJ"
+citizenship:
+  - "India"
+languages:
+  - name: "Malayalam"
+    proficiency: "Native"
+  - name: "English"
+    proficiency: "Fluent"
+  - name: "Hindi"
+    proficiency: "Conversational"
+  - name: "Tamil"
+    proficiency: "Conversational"
+
+scholar_metrics:
+  total_citations: 551
+  h_index: 9
+  i10_index: 9
+  updated: "2025-11-07"
+
+memberships:
+  - organization: "IEEE Computer Society"
+    role: "Member"
+    since: null
+    link: "https://www.computer.org/"
+keywords:
+  - "extended reality (XR)"
+  - "virtual reality (VR)"
+  - "augmented reality (AR)"
+  - "multimodal sensing"
+  - "physiological computing"
+  - "eye gaze"
+  - "hand gestures"
+  - "remote collaboration"
+  - "cognitive load"
+  - "emotion recognition"
+  - "wearable AI"
+  - "human–computer interaction (HCI)"
+  - "empathic computing"

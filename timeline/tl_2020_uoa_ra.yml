@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: tl_2020_uoa_ra
+org: "University of Auckland"
+title: "Research Assistant"
+start_date: "2020-01-01"
+end_date: "2022-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "AR breast bio-imaging overlay for evaluation with biomimetics group."
+  - "Magic Leap Mercedes-Benz showroom prototype with customization and interaction."
+achievements: []

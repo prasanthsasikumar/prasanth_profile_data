@@ -1,0 +1,21 @@
+schema_version: "0.1.0"
+id: pub_2021_frontiers_volumetric_playback
+title: "Spatial Perception Enhancement in Assembly Training Using Augmented Volumetric Playback"
+venue: "Frontiers in Virtual Reality"
+type: "journal"
+date: "2021-08-16"
+authors:
+  - "Sasikumar, Prasanth"
+  - "Chittajallu, Soumith"
+  - "Raj, Navindd"
+  - "Bai, Huidong"
+  - "Billinghurst, Mark"
+doi: "10.3389/frvir.2021.698523"
+url: "https://www.frontiersin.org/articles/10.3389/frvir.2021.698523/full"
+citations_count: 15
+citations_source: "Frontiers article metrics"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Demonstrated augmented volumetric playback to improve spatial perception in training."
+evidence_refs: []

@@ -1,0 +1,9 @@
+# Ignore private/sensitive content or local exports
+private/
+exports/
+remuneration/
+*.csv
+*.xlsx
+*.docx
+.DS_Store
+Thumbs.db

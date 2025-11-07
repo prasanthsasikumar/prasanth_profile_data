@@ -1,0 +1,14 @@
+schema_version: "0.1.0"
+id: tl_2017_uc_masters
+org: "University of Canterbury"
+title: "Master's, Human Interface Technology"
+start_date: "2017-02-01"
+end_date: "2018-04-30"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Specialized in XR/HCI and interaction design."
+achievements: []

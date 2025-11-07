@@ -1,0 +1,20 @@
+schema_version: "0.1.0"
+id: pub_2021_chi_xrtb
+title: "XRTB: A Cross Reality Teleconference Bridge to Incorporate 3D Interactivity to 2D Teleconferencing"
+venue: "CHI EA '21: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+type: "conference"
+date: "2021-05-08"
+authors:
+  - "Sasikumar, Prasanth"
+  - "Collins, Max"
+  - "Bai, Huidong"
+  - "Billinghurst, Mark"
+doi: "10.1145/3411763.3451546"
+url: "https://dl.acm.org/doi/10.1145/3411763.3451546"
+citations_count: 6
+citations_source: "ACM Digital Library"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Introduced a bridge bringing 3D interactivity to standard teleconferencing."
+evidence_refs: []

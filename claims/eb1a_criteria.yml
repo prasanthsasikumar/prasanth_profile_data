@@ -1,0 +1,84 @@
+# EB1A Claim–Evidence mapping (scaffold)
+schema_version: "0.1.0"
+claims:
+  - id: claim_A_001
+    criterion: "A"  # Awards of excellence
+    claim_text: "Recipient of competitive New Zealand government grants (MBIE for Master's tuition; TEC for PhD) and runner-up in MYOB national challenge."
+    evidence_ids: ["award:aw_2017_mbie_masters_grant", "award:aw_2019_tec_phd_grant", "award:aw_2019_myob_runnerup"]
+    strength: 3  # preliminary
+    notes: "Add selectivity rates and official links where available."
+  - id: claim_B_001
+    criterion: "B"  # Membership in associations requiring outstanding achievements
+    claim_text: "Member of IEEE Computer Society (professional association). Standard membership is not selective; plan to pursue IEEE Senior Member or comparable selective memberships."
+    evidence_ids: ["mship:mb_ieee_cs"]
+    strength: 1
+    notes: "Standard membership does not typically satisfy EB1A-B. Senior Member or fellowships are stronger."
+  - id: claim_C_001
+    criterion: "C"  # Published material about you
+    claim_text: "TBD — media coverage, invited features, or institutional news posts."
+    evidence_ids: []
+    strength: 2
+    notes: "Collect links to university or press coverage."
+  - id: claim_D_001
+    criterion: "D"  # Judging the work of others
+    claim_text: "Service roles include Student Volunteer Chair at IEEE VR (2022, 2023) and ISMAR (2024); mentoring and workshop facilitation."
+    evidence_ids: []
+    strength: 2
+    notes: "Add verified peer-review record (journals/conferences) and PC invitations to strengthen."
+  - id: claim_E_001
+    criterion: "E"  # Original contributions of major significance
+    claim_text: "Original contributions to adaptive XR and physiological computing, including a large-scale VR motion sickness dataset with industry partners and systems improving remote collaboration and accessibility."
+    evidence_ids: [
+      "pub:pub_2024_ieeevr_physio_cues",
+      "pub:pub_2024_vrnet_dataset",
+      "pub:pub_2024_chi_seear",
+      "pub:pub_2024_chi_floatation",
+      "pub:pub_2021_frontiers_volumetric_playback",
+      "pub:pub_2021_chi_xrtb",
+      "pub:pub_2020_chi_gaze_hand",
+      "pub:pub_2023_sigasia_sensoryscape"
+    ]
+    strength: 4
+    notes: "Add adoption metrics, citations, and downstream usage."
+  - id: claim_F_001
+    criterion: "F"  # Authorship of scholarly articles
+    claim_text: "Authored peer-reviewed publications at CHI, IEEE VR, ISMAR, SIGGRAPH Asia, EMNLP, and journals; spanning XR collaboration, accessibility, datasets, and physiological sensing."
+    evidence_ids: [
+      "pub:pub_2024_ieeevr_physio_cues",
+      "pub:pub_2024_chi_seear",
+      "pub:pub_2024_chi_floatation",
+      "pub:pub_2024_emnlp_emoknow",
+      "pub:pub_2023_sigasia_sensoryscape",
+      "pub:pub_2022_chi_interbrain",
+      "pub:pub_2021_chi_xrtb",
+      "pub:pub_2021_frontiers_volumetric_playback",
+      "pub:pub_2020_jmui_av_cues",
+      "pub:pub_2020_sigasia_neuraldrum",
+      "pub:pub_2019_ismar_remotefusion"
+    ]
+    strength: 4
+    notes: "Add citation counts from Google Scholar."
+  - id: claim_G_001
+    criterion: "G"  # Leading/critical role for distinguished organizations
+    claim_text: "Critical research roles at National University of Singapore; prior XR engineering at JiX Reality; led development of multiple XR prototypes used in showcases and research."
+    evidence_ids: ["tl:tl_2023_nus_research_fellow", "tl:tl_2018_jix_xr_developer"]
+    strength: 3
+    notes: "Add measurable outcomes (deployments, users, grants won)."
+  - id: claim_H_001
+    criterion: "H"  # High salary or remuneration
+    claim_text: "TBD — provide remuneration statements relative to local market percentiles and contracts."
+    evidence_ids: []
+    strength: 1
+    notes: "Awaiting compensation evidence."
+  - id: claim_I_001
+    criterion: "I"  # Commercial successes in the performing arts (if applicable)
+    claim_text: "N/A"
+    evidence_ids: []
+    strength: 2
+    notes: ""
+  - id: claim_J_001
+    criterion: "J"  # Other comparable evidence
+    claim_text: "Invited participation in Meta XR hackathons (Menlo Park 2023, Istanbul 2024) and mentoring roles (ICE 2024); cross-lab collaborations with industry."
+    evidence_ids: ["award:aw_2023_meta_hackathon_invite", "award:aw_2024_meta_hackathon_invite"]
+    strength: 2
+    notes: "Add formal invitation letters and outcomes."

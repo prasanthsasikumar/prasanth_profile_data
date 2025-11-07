@@ -1,0 +1,10 @@
+schema_version: "0.1.0"
+id: aw_2019_tec_phd_grant
+name: "TEC PhD Scholarship"
+awarding_body: "Tertiary Education Commission (New Zealand)"
+level: "national"
+date: "2019-01-01"
+selectivity: "competitive"
+criteria: "PhD tuition/stipend support based on academic merit and research potential."
+link: ""
+evidence_refs: []

@@ -1,0 +1,14 @@
+schema_version: "0.1.0"
+id: tl_2010_kerala_bachelors
+org: "University of Kerala"
+title: "Bachelor of Engineering, Computer Science"
+start_date: "2010-03-01"
+end_date: "2014-04-30"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Undergraduate studies in computer science and engineering."
+achievements: []

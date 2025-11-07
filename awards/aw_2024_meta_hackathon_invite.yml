@@ -1,0 +1,10 @@
+schema_version: "0.1.0"
+id: aw_2024_meta_hackathon_invite
+name: "Meta XR Hackathon — Invited Participant (Istanbul)"
+awarding_body: "Meta"
+level: "company"
+date: "2024-01-01"
+selectivity: "invited"
+criteria: "Presence Platform development; invited participant."
+link: ""
+evidence_refs: []

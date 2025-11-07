@@ -1,0 +1,21 @@
+# Template for a single timeline item (position/role)
+schema_version: "0.1.0"
+id: tl_xxxx
+org: "<Organization>"
+title: "<Title>"
+start_date: "YYYY-MM-DD"
+end_date: null  # or "YYYY-MM-DD"
+scope:
+  team_size: <number>
+  budget:
+    value: <number>
+    unit: "M USD"  # or other
+responsibilities:
+  - "<responsibility 1>"
+  - "<responsibility 2>"
+achievements:
+  - metric: "<e.g., query latency>"
+    value: <number>
+    unit: "<ms/%/users/etc>"
+    date: "YYYY-MM-DD"
+    evidence_refs: []

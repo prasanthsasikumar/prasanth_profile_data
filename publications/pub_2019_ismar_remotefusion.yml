@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: pub_2019_ismar_remotefusion
+title: "Wearable RemoteFusion — A Mixed Reality Remote Collaboration System with Local Eye Gaze and Remote Hand Gesture Sharing"
+venue: "2019 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+type: "conference"
+date: "2019-10-14"
+authors:
+  - "Sasikumar, Prasanth"
+doi: "10.1109/ISMAR-Adjunct.2019.000-3"
+url: "https://doi.org/10.1109/ISMAR-Adjunct.2019.000-3"
+citations_count: 0
+awards: []
+highlights:
+  - "Introduced an MR remote collaboration system sharing gaze and remote hand gestures."
+evidence_refs: []

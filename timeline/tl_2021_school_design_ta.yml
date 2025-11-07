@@ -1,0 +1,14 @@
+schema_version: "0.1.0"
+id: tl_2021_school_design_ta
+org: "School of Design"
+title: "Teaching Assistant"
+start_date: "2021-07-01"
+end_date: "2022-04-30"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Assisted in designing and delivering a mixed reality design course (Unity) for undergraduates."
+achievements: []

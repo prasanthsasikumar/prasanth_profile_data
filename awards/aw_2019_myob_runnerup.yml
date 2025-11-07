@@ -1,0 +1,10 @@
+schema_version: "0.1.0"
+id: aw_2019_myob_runnerup
+name: "MYOB Challenge — Runner-up"
+awarding_body: "MYOB"
+level: "company"
+date: "2019-01-01"
+selectivity: "competition placement"
+criteria: "Mobile AR inventory management application developed for the challenge."
+link: ""
+evidence_refs: []

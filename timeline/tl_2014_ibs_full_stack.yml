@@ -1,0 +1,27 @@
+schema_version: "0.1.0"
+id: tl_2014_ibs_full_stack
+org: "IBS Software"
+title: "Full Stack Developer"
+start_date: "2014-01-01"
+end_date: "2016-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Full stack development across web application features."
+achievements: []schema_version: "0.1.0"
+id: tl_2014_ibs_full_stack
+org: "IBS Software"
+title: "Full Stack Developer"
+start_date: "2014-01-01"
+end_date: "2016-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Developed web application features across the stack."
+achievements: []

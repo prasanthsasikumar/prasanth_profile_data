@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: pub_2024_motion_as_emotion
+title: "Motion as Emotion: Detecting Affect and Cognitive Load from Free-Hand Gestures in VR"
+venue: ""
+type: "preprint"
+date: "2024-09-01"
+authors:
+  - "Sasikumar, Prasanth"
+doi: ""
+url: "https://www.researchgate.net/publication/384155812_Motion_as_Emotion_Detecting_Affect_and_Cognitive_Load_from_Free-Hand_Gestures_in_VR"
+citations_count: 0
+awards: []
+highlights:
+  - "Detects affect and cognitive load from subtle hand motion signals in VR."
+evidence_refs: []

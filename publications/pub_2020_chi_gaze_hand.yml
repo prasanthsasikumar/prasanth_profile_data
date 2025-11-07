@@ -1,0 +1,20 @@
+schema_version: "0.1.0"
+id: pub_2020_chi_gaze_hand
+title: "A User Study on Mixed Reality Remote Collaboration with Eye Gaze and Hand Gesture Sharing"
+venue: "CHI '20: Proceedings of the CHI Conference on Human Factors in Computing Systems"
+type: "conference"
+date: "2020-04-23"
+authors:
+  - "Bai, Huidong"
+  - "Sasikumar, Prasanth"
+  - "Yang, Jing"
+  - "Billinghurst, Mark"
+doi: "10.1145/3313831.3376550"
+url: "https://dl.acm.org/doi/10.1145/3313831.3376550"
+citations_count: 168
+citations_source: "ACM Digital Library"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Empirical evaluation of gaze + gesture sharing for MR remote collaboration."
+evidence_refs: []

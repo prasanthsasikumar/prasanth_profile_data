@@ -1,0 +1,21 @@
+schema_version: "0.1.0"
+id: pub_2020_sigasia_neuraldrum
+title: "NeuralDrum — Perceiving Brain Synchronicity in XR Drumming"
+venue: "SIGGRAPH Asia 2020 Technical Communications"
+type: "conference"
+date: "2020-11-17"
+authors:
+  - "Pai, Shyam Sundar"
+  - "Hajika, Ryo"
+  - "Gupta, Karan"
+  - "Sasikumar, Prasanth"
+  - "Billinghurst, Mark"
+doi: "10.1145/3410700.3425434"
+url: "https://dl.acm.org/doi/10.1145/3410700.3425434"
+citations_count: 11
+citations_source: "ACM Digital Library"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Explored inter-brain synchrony visualization in an XR music interaction."
+evidence_refs: []

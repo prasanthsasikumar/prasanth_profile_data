@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: pub_2024_ieeevr_physio_cues
+title: "A User Study on Sharing Physiological Cues in VR Assembly Tasks"
+venue: "IEEE VR"
+type: "conference"
+date: "2024-01-01"
+authors:
+  - "Sasikumar, Prasanth"
+doi: "10.1109/VR58804.2024.00096"
+url: "https://doi.org/10.1109/VR58804.2024.00096"
+citations_count: 0
+awards: []
+highlights:
+  - "Showed benefits of sharing physiological signals for coordination in VR assembly."
+evidence_refs: []

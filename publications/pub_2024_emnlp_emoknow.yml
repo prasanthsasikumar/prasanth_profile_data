@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: pub_2024_emnlp_emoknow
+title: "EMO-KNOW: A Large Scale Dataset on Emotion and Emotion-cause"
+venue: "EMNLP"
+type: "conference"
+date: "2024-06-01"
+authors:
+  - "Sasikumar, Prasanth"
+doi: ""
+url: "https://www.researchgate.net/publication/381518659_EMO-KNOW_A_Large_Scale_Dataset_on_Emotion_and_Emotion-cause"
+citations_count: 0
+awards: []
+highlights:
+  - "Presents >700k tweets with emotion-cause pairs across 48 emotion classes."
+evidence_refs: []

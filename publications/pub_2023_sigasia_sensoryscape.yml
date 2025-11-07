@@ -1,0 +1,24 @@
+schema_version: "0.1.0"
+id: pub_2023_sigasia_sensoryscape
+title: "SensoryScape: Context-Aware Empathic VR Photography"
+venue: "SIGGRAPH Asia 2023 XR"
+type: "conference"
+date: "2023-11-28"
+authors:
+  - "Gupta, Kunal"
+  - "Zhang, Yuewei"
+  - "Gunasekaran, Tamil Selvan"
+  - "Sasikumar, Prasanth"
+  - "Krishna, Nanditha"
+  - "Pits, Philip"
+  - "Russomanno, Conor"
+  - "Billinghurst, Mark"
+doi: "10.1145/3610549.3614596"
+url: "https://dl.acm.org/doi/10.1145/3610549.3614596"
+citations_count: 1
+citations_source: "ACM Digital Library"
+citations_as_of: "2025-11-07"
+awards: []
+highlights:
+  - "Proposed empathic VR photography informed by contextual sensing."
+evidence_refs: []

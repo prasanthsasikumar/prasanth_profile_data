@@ -1,0 +1,20 @@
+schema_version: "0.1.0"
+id: pub_2020_jmui_av_cues
+title: "The Effects of Spatial Auditory and Visual Cues on Mixed Reality Remote Collaboration"
+venue: "Journal of Multimodal User Interfaces"
+type: "journal"
+date: "2020-07-01"
+authors:
+  - "Yang, Jing"
+  - "Sasikumar, Prasanth"
+  - "Bai, Huidong"
+  - "Barde, Amit"
+  - "Sörös, Gábor"
+  - "Billinghurst, Mark"
+doi: "10.1007/s12193-020-00331-1"
+url: "https://link.springer.com/article/10.1007/s12193-020-00331-1"
+citations_count: 0
+awards: []
+highlights:
+  - "Studied spatial audio/visual cue design for MR collaboration."
+evidence_refs: []

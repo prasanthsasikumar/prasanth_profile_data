@@ -1,0 +1,16 @@
+schema_version: "0.1.0"
+id: tl_2021_massey_ra
+org: "Massey University"
+title: "Research Assistant"
+start_date: "2021-01-01"
+end_date: "2022-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Developed AR fire safety training on HoloLens 2; compared with traditional training."
+  - "Designed Azure Kinect system for pedestrian dynamics to inform evacuation planning."
+  - "Contributed to successful Marsden Grant proposal."
+achievements: []
