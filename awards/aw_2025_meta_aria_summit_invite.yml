@@ -1,0 +1,17 @@
+schema_version: "0.1.0"
+id: aw_2025_meta_aria_summit_invite
+title: "Meta Aria Summit Invitation"
+date: "2025-01-01"
+issuer: "Meta"
+type: "invitation"
+description: "Invited by Meta to attend the Aria Summit in Seattle with all expenses paid."
+recognition_level: "industry_invitation"
+monetary_value:
+  amount: 0
+  currency: "USD"
+evidence:
+  - type: "invitation_email"
+    description: "Email invitation from Meta with travel and accommodation covered."
+highlights:
+  - "Selected participant for Meta's Aria Summit in Seattle."
+  - "All expenses paid (travel, accommodation)."

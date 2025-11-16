@@ -1,0 +1,19 @@
+schema_version: "0.1.0"
+id: tl_2023_ieeevr_svc
+org: "IEEE VR 2023"
+title: "Student Volunteer Chair"
+start_date: "2023-03-25"
+end_date: "2023-03-29"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Led student volunteer coordination for IEEE VR 2023, a prestigious international conference on virtual reality."
+  - "Managed volunteer recruitment, scheduling, and on-site operations."
+achievements:
+  - "Ensured smooth conference execution through effective volunteer management."
+links:
+  - url: "https://ieeevr.org/2023/committees/conference-committee/"
+    type: "committee_page"

@@ -3,10 +3,10 @@ schema_version: "0.1.0"
 claims:
   - id: claim_A_001
     criterion: "A"  # Awards of excellence
-    claim_text: "Recipient of competitive New Zealand government grants (MBIE for Master's tuition; TEC for PhD) and runner-up in MYOB national challenge."
-    evidence_ids: ["award:aw_2017_mbie_masters_grant", "award:aw_2019_tec_phd_grant", "award:aw_2019_myob_runnerup"]
-    strength: 3  # preliminary
-    notes: "Add selectivity rates and official links where available."
+    claim_text: "Recipient of competitive New Zealand government grants (MBIE for Master's tuition; TEC for PhD), runner-up in MYOB national challenge, and invited participant in prestigious Meta XR events (Presence SDK Hackathon 2023, Aria Summit 2025) with all expenses paid."
+    evidence_ids: ["award:aw_2017_mbie_masters_grant", "award:aw_2019_tec_phd_grant", "award:aw_2019_myob_runnerup", "award:aw_2023_meta_presence_invite", "award:aw_2025_meta_aria_summit_invite"]
+    strength: 4
+    notes: "Meta invitations demonstrate industry recognition and selection."
   - id: claim_B_001
     criterion: "B"  # Membership in associations requiring outstanding achievements
     claim_text: "Member of IEEE Computer Society (professional association). Standard membership is not selective; plan to pursue IEEE Senior Member or comparable selective memberships."
@@ -15,15 +15,15 @@ claims:
     notes: "Standard membership does not typically satisfy EB1A-B. Senior Member or fellowships are stronger."
   - id: claim_C_001
     criterion: "C"  # Published material about you
-    claim_text: "TBD — media coverage, invited features, or institutional news posts."
-    evidence_ids: []
-    strength: 2
-    notes: "Collect links to university or press coverage."
+    claim_text: "Organizer and speaker at 2021 International XR Workshop; leadership roles documented in official conference committee pages for IEEE VR and ISMAR."
+    evidence_ids: ["tl:tl_2021_xr_workshop_organizer", "tl:tl_2022_ieeevr_svc", "tl:tl_2023_ieeevr_svc", "tl:tl_2024_ismar_svc"]
+    strength: 3
+    notes: "Additional media coverage, invited features, or institutional news posts will strengthen."
   - id: claim_D_001
     criterion: "D"  # Judging the work of others
-    claim_text: "Service roles include Student Volunteer Chair at IEEE VR (2022, 2023) and ISMAR (2024); mentoring and workshop facilitation."
-    evidence_ids: []
-    strength: 2
+    claim_text: "Served as organizer and judge at ICE Workshop (2024, 2025, Sri Lanka, Meta sponsor); Student Volunteer Chair at IEEE VR (2022, 2023) and ISMAR (2024)."
+    evidence_ids: ["tl:tl_2024_ice_workshop_organizer", "tl:tl_2025_ice_workshop_organizer", "tl:tl_2022_ieeevr_svc", "tl:tl_2023_ieeevr_svc", "tl:tl_2024_ismar_svc"]
+    strength: 3
     notes: "Add verified peer-review record (journals/conferences) and PC invitations to strengthen."
   - id: claim_E_001
     criterion: "E"  # Original contributions of major significance
@@ -60,10 +60,10 @@ claims:
     notes: "Add citation counts from Google Scholar."
   - id: claim_G_001
     criterion: "G"  # Leading/critical role for distinguished organizations
-    claim_text: "Critical research roles at National University of Singapore; prior XR engineering at JiX Reality; led development of multiple XR prototypes used in showcases and research."
-    evidence_ids: ["tl:tl_2023_nus_research_fellow", "tl:tl_2018_jix_xr_developer"]
-    strength: 3
-    notes: "Add measurable outcomes (deployments, users, grants won)."
+    claim_text: "Critical research roles at National University of Singapore; prior XR engineering at JiX Reality; Student Volunteer Chair at IEEE VR (2022, 2023) and ISMAR (2024); organizer and judge at ICE Workshop (2024, 2025) with Meta sponsorship."
+    evidence_ids: ["tl:tl_2023_nus_research_fellow", "tl:tl_2018_jix_xr_developer", "tl:tl_2022_ieeevr_svc", "tl:tl_2023_ieeevr_svc", "tl:tl_2024_ismar_svc", "tl:tl_2024_ice_workshop_organizer", "tl:tl_2025_ice_workshop_organizer"]
+    strength: 4
+    notes: "Strong leadership roles at prestigious conferences and workshops."
   - id: claim_H_001
     criterion: "H"  # High salary or remuneration
     claim_text: "TBD — provide remuneration statements relative to local market percentiles and contracts."
@@ -78,7 +78,7 @@ claims:
     notes: ""
   - id: claim_J_001
     criterion: "J"  # Other comparable evidence
-    claim_text: "Invited participation in Meta XR hackathons (Menlo Park 2023, Istanbul 2024) and mentoring roles (ICE 2024); cross-lab collaborations with industry."
-    evidence_ids: ["award:aw_2023_meta_hackathon_invite", "award:aw_2024_meta_hackathon_invite"]
-    strength: 2
-    notes: "Add formal invitation letters and outcomes."
+    claim_text: "Invited participation in Meta XR events (Presence SDK Hackathon 2023, Turkey Hackathon 2024, Aria Summit 2025) with expenses paid; organizer and speaker at 2021 International XR Workshop; judge at ICE Workshop (2024, 2025) with Meta sponsorship."
+    evidence_ids: ["award:aw_2023_meta_presence_invite", "award:aw_2024_meta_hackathon_invite", "award:aw_2025_meta_aria_summit_invite", "tl:tl_2021_xr_workshop_organizer", "tl:tl_2024_meta_hackathon_turkey", "tl:tl_2024_ice_workshop_organizer", "tl:tl_2025_ice_workshop_organizer"]
+    strength: 4
+    notes: "Strong industry recognition and invited participation in prestigious events."

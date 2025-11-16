@@ -1,0 +1,19 @@
+schema_version: "0.1.0"
+id: tl_2021_xr_workshop_organizer
+org: "International XR Workshop"
+title: "Organizer & Speaker"
+start_date: "2021-01-01"
+end_date: "2021-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Organized and spoke at the 2021 International XR Workshop."
+  - "Facilitated sessions on XR research, development, and emerging technologies."
+achievements:
+  - "Successfully coordinated international participation and knowledge exchange."
+links:
+  - url: "https://sites.google.com/view/xrworkshop/2021"
+    type: "event_website"

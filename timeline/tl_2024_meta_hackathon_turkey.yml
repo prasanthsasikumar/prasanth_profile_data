@@ -1,0 +1,15 @@
+schema_version: "0.1.0"
+id: tl_2024_meta_hackathon_turkey
+org: "Meta XR Hackathon"
+title: "Participant"
+start_date: "2024-01-01"
+end_date: "2024-12-31"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Attended Meta XR Hackathon in Turkey."
+  - "Developed XR prototypes and collaborated with international developers."
+achievements: []

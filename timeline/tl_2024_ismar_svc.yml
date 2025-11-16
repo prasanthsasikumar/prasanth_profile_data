@@ -1,0 +1,19 @@
+schema_version: "0.1.0"
+id: tl_2024_ismar_svc
+org: "IEEE ISMAR 2024"
+title: "Student Volunteer Chair"
+start_date: "2024-10-21"
+end_date: "2024-10-25"
+scope:
+  team_size: 0
+  budget:
+    value: 0
+    unit: "USD"
+responsibilities:
+  - "Led student volunteer coordination for IEEE ISMAR 2024, a premier international conference on mixed and augmented reality."
+  - "Managed volunteer recruitment, scheduling, and on-site operations."
+achievements:
+  - "Ensured smooth conference execution through effective volunteer management."
+links:
+  - url: "https://www.ieeeismar.net/2024/index.html%3Fp=465.html"
+    type: "committee_page"
